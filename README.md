@@ -1,4 +1,5 @@
-
+# VERSÃO 3
+<img src="https://i.pinimg.com/originals/d0/19/f8/d019f8f48b87a4656474797ddd875eb1.gif" width="250px">
 
 # Pesquisa De Engenharia De Requisitos
 _Engenharia de Requisitos é o nome que se dá ao conjunto de atividades relacionadas com a descoberta, análise, especificação e manutenção dos requisitos de um sistema._
